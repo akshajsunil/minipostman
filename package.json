@@ -1,0 +1,21 @@
+{
+  "name": "Postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^3.6.2"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "pretty-bytes": "^5.6.0"
+  }
+}
